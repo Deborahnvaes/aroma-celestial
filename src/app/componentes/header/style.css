@@ -1,0 +1,18 @@
+.header {
+    background-image: url('/image/vista-da-xicara-de-cafe-com-graos-de-cafe-torrados.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 50vh;
+    color: aliceblue;
+  }
+
+  .nav-list{
+    display: flex;
+    justify-content: flex-end;
+  }
+ 
+  .nav-list-item{
+    margin: 10px;
+  }
