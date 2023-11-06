@@ -1,0 +1,25 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@200;300;500&display=swap');
+
+.footer-info{
+  background: #ECE6E1;
+  text-align: center;
+  font-family: 'Noto Sans', sans-serif;
+  padding: 20px; 
+}
+
+.icons-footer{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+h3{
+ font-weight: 900;
+ font-size: 25px;
+}
+
+p{
+  font-size: 10px;
+}
+
