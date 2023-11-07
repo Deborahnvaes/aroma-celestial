@@ -17,6 +17,10 @@
     margin: 10px;
   }
 
+  .nav-list-item a {
+    color: #fff;
+    text-decoration: none;
+  }
   
   h1{
     text-align: center;

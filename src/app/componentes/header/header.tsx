@@ -1,4 +1,3 @@
-import Image from 'next/image';
 import React from 'react';
 
 import './style.css'
@@ -9,9 +8,9 @@ function Header () {
         <header className='header'>
         <nav className='nav-header'>
             <ul className='nav-list'>
-                <li className='nav-list-item'>Home</li>
-                <li className='nav-list-item'>Contatos</li>
-                <li className='nav-list-item'>Sobre</li>
+                <li className='nav-list-item'><a href='#'>Home</a></li>
+                <li className='nav-list-item'><a href='#'>Contatos</a></li>
+                <li className='nav-list-item'><a href='#'>Sobre</a></li>
             </ul>
         </nav>
         <h1>AROMA CELESTIAL</h1>
