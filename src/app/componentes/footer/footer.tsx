@@ -1,9 +1,12 @@
 /* eslint-disable jsx-a11y/alt-text */
-
-import "../footer/styles.css";
+import Button from 'react-bootstrap/Button';
+import "../footer/styles/styles.css";
 import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
-import { Facebook, Instagram, Youtube } from 'react-bootstrap-icons';
+import Image from "next/image";
+import iconFacebook from '../footer/imagens/face.png.png';
+import iconInstagram from '../footer/imagens/insta.png.png';
+import iconYoutube from '../footer/imagens/youtube.png.png'
 
 
 export function Footer() {
@@ -17,10 +20,19 @@ export function Footer() {
         </Col>
         <Col xs={6} md={4} className="mx-auto">
           <div className="icons-footer">
-          <Facebook /> <Instagram /> <Youtube />
+            <Button variant="link">
+              <Image src={iconFacebook.src} alt={"icon-facebook"} width={30} height={28}></Image>
+            </Button> 
+            <Button variant="link">
+              <Image src={iconInstagram.src} alt={"icon-instagram"} width={30} height={28}></Image> 
+            </Button> 
+            <Button variant="link">
+              <Image src={iconYoutube.src} alt={"icon-youtube"} width={35} height={35}></Image> 
+            </Button>
           </div>
         </Col>
       </Row>
+      <p className='p-1'>&copy; 2023 Aroma Celestial. Todos os direitos reservados.</p>
     </footer>
   );
 }
