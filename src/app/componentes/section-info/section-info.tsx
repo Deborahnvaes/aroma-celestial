@@ -1,4 +1,4 @@
-import "../../componentes/section-info/stylesInfo.css";
+import "../../componentes/section-info/Style/stylesInfo.css";
 import tiposCafe from '@/app/componentes/section-info/img/aroma-cafe.png';
 import { Image } from 'react-bootstrap';
 import React from 'react';
