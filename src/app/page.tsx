@@ -1,4 +1,5 @@
-import { Header } from "./componentes/header";
+
+ { Header } from "./componentes/header";
 import { SectionInfo } from "./componentes/section-info/section-info";
 
 
