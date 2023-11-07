@@ -10,9 +10,9 @@ export function Header () {
               <ul>
                 <div className="botoes-nav">
                   {botoesNav.map((item, index) => (
-                    <button key={index} className="button">
-                      <li>{item}</li>
-                    </button>
+                    <li key={index} >
+                      <button className="button">{item}</button>
+                    </li>
                   ))}
                 </div>
               </ul>
