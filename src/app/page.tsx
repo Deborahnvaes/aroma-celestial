@@ -1,12 +1,12 @@
 
+import { Footer } from "./componentes/footer/footer";
 import { Header } from "./componentes/header";
-import { OpcoesCafe } from "./componentes/opcoes";
 
 export default function Home() {
   return (
     <>     
-    <Header />
-    <OpcoesCafe/>
+    <Header /> 
+    <Footer />
     </>
   );
 }
