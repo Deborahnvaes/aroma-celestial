@@ -1,18 +1,32 @@
-.header {
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@700&family=Marmelad&family=Montserrat:wght@400;700&family=Poppins:wght@400;700&family=Ubuntu:wght@300;400;500&display=swap');
+  
+  .header {
     background-image: url('/image/vista-da-xicara-de-cafe-com-graos-de-cafe-torrados.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
-    height: 50vh;
+    height: 80vh;
     color: aliceblue;
-  }
-
-  .nav-list{
+  } 
+  .botoes-nav{
+    margin: 10px;
     display: flex;
     justify-content: flex-end;
+    padding: 30px;
   }
- 
-  .nav-list-item{
-    margin: 10px;
+
+  .button{
+    background-color: transparent;
+    color: aliceblue;
+    border: none;
+    padding-left: 30px;
+    font-size: 20px;
+  }
+  
+  .nome-site{
+    font-family: 'Fredoka', sans-serif;
+    font-size: 65px;
+    position: fixed;
+    right: 570px;
   }
