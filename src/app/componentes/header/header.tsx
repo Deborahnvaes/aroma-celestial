@@ -10,14 +10,14 @@ export function Header () {
               <ul>
                 <div className="botoes-nav">
                   {botoesNav.map((item, index) => (
-                    <li key={index} >
+                    <li key={index}>
                       <button className="button">{item}</button>
                     </li>
                   ))}
                 </div>
               </ul>
             </nav>
-            <div className="nome-site">AROMA CELESTIAL</div>
+            <div className="nome-site"><h1>AROMA CELESTIAL</h1></div>
           </header>
         );
 }
