@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Poppins:wght@400;700&family=Ubuntu:wght@300;400;500&display=swap');
+  
+  .header {
+    background-image: url('/image/vista-da-xicara-de-cafe-com-graos-de-cafe-torrados.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 80vh;
+    color: transparent;
+  } 
+
+  .botoes-nav{
+    margin: 10px;
+    display: flex;
+    justify-content: flex-end;
+    padding: 30px;
+  }
+
+  .button{
+    background-color: transparent;
+    color: aliceblue;
+    border: none;
+    padding-left: 30px;
+    font-size: 20px;
+  }
+  .nome-site h1{
+    letter-spacing: 5px;
+    font-family: 'DM Serif Display', serif;
+    color: rgb(241, 245, 241);
+    font-size: 85px;
+    font-weight: bold;
+    text-align: center;
+    padding: 60px;
+    right: 570px;
+  }
+
+
+  .nav-list-item a {
+    color: #fff;
+    text-decoration: none;
+  }
+  

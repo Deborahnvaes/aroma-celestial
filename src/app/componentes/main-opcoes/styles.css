@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+.opcoes-cafe{
+  margin-top: 20px;
+  padding: 40px;
+  background-color: #cac8c89d;
+  border-radius: 30px;  
+  font-family: 'Poppins', sans-serif;
+}
+
+.opcoes-cafe h1{
+  text-align: center;
+  font-size: 50px;
+  color: black;
+  font-weight: bold;
+  font-style:initial;
+}
+
+.itens-cardapio{
+  display: flex;
+  margin: 50px;
+ }
+
+ .itens-cardapio img{
+     height: 200px;
+     margin: 30px;
+ }
+
+ .informacao-cardapio{
+  padding: 30px;
+  color: rgb(51, 50, 50);
+}
+
+
+ .btn-saiba-mais{
+  border-radius: 5px;
+  padding: 5px 20px;
+  float: right;
+ }
