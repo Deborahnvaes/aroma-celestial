@@ -24,4 +24,4 @@ Abra o arquivo no seu navegador para explorar o site.
 #### Agradecimentos  🤗
 Agradecemos a todos os membros da equipe que contribuíram para tornar este projeto uma realidade.
 
-#### Você pode acessar a página clicando aqui: -> https://cafe-celestial.netlify.app/ 🤎
+#### Você pode acessar a página clicando aqui: -> https://aroma-celestial.netlify.app/ 🤎
