@@ -1,4 +1,4 @@
-## Aroma Celestial - Página de Apresentação de Tipos de Café
+## Aroma Celestial - Página de Apresentação de Tipos de Cafés
 Bem-vindo ao repositório do projeto "Aroma Celestial" - uma página de apresentação de tipos de café. Neste projeto de desenvolvimento front-end, nossa equipe optou por explorar a fascinante variedade de sabores e aromas que o mundo do café tem a oferecer.
 
 ### Descrição do Projeto
