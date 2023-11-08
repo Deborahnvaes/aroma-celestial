@@ -1,36 +1,23 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Aroma Celestial - Página de Apresentação de Tipos de Café
+Bem-vindo ao repositório do projeto "Aroma Celestial" - uma página de apresentação de tipos de café. Neste projeto de desenvolvimento front-end, nossa equipe optou por explorar a fascinante variedade de sabores e aromas que o mundo do café tem a oferecer.
 
-## Getting Started
+Descrição do Projeto
+Nossa missão era criar uma página web atraente e informativa que apresentasse uma seleção de tipos de café, destacando suas características únicas e origens. Escolhemos o nome "Aroma Celestial" para refletir a experiência celestial que um bom café pode proporcionar.
 
-First, run the development server:
+Objetivos
+Apresentar informações sobre uma variedade de tipos de café.
+Criar uma interface atraente e responsiva para fornecer uma experiência de usuário.
+Integrar recursos visuais, como imagens e gráficos, para enriquecer o conteúdo.
+Tecnologias Utilizadas
+HTML, CSS e JavaScript, React, React-Bootstrap para o desenvolvimento front-end.
+Ferramentas de design para criar elementos visuais atraentes. - Miro.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Como Contribuir
+Este repositório é de código aberto, e convidamos a comunidade a contribuir. Se você quiser adicionar informações sobre novos tipos de café, melhorar o design ou corrigir bugs, fique à vontade para fazer um fork do projeto e enviar um pull request.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Instruções de Uso
+Clone o repositório em seu ambiente de desenvolvimento.
+Abra o arquivo no seu navegador para explorar o site.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Agradecimentos
+Agradecemos a todos os membros da equipe que contribuíram para tornar este projeto uma realidade.
