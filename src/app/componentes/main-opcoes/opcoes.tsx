@@ -1,5 +1,6 @@
-import "../styles.css";
-import Image from 'next/image'
+import "../main-opcoes/styles.css";
+import Image from "next/image";
+import Button from 'react-bootstrap/Button';
 
 const dadosCafe =[{
     nome:"Cappuccino",
@@ -40,12 +41,13 @@ export function OpcoesCafe() {
             <div className="cardapio">
                 {dadosCafe.map((cafe) =>(
                     <div className="itens-cardapio" key={cafe.nome} >
-                        <img src={cafe.imagem} alt="" />
+                        <img src={cafe.imagem} alt={'cafe'} /> 
                         <div className="informacao-cardapio">
                             <h3>{cafe.nome}</h3>
                             <p>{cafe.descricao}</p>
-                            <button className="btn-saiba-mais">Saiba mais</button>
+                            <Button variant="outline-dark" className="btn-saiba-mais">Saiba mais</Button>
                         </div>
+                        
                     </div>
                     
                 ))}
