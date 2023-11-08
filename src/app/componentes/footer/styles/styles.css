@@ -1,11 +1,10 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@200;300;500&display=swap');
 
 .footer-info{
   background: #ECE6E1;
   text-align: center;
-  font-family: 'Noto Sans', sans-serif;
-  padding: 20px; 
+  font-family: 'Noto Sans', sans-serif; 
+  padding: 10px;
 }
 
 .icons-footer{
@@ -15,7 +14,7 @@
 }
 
 h3{
- font-weight: 900;
+ font-weight: bold;
  font-size: 40px;
 }
 
@@ -25,6 +24,5 @@ p{
 
 .p-1{
   font-size: 15px;
-  margin: 12px;
 }
 
